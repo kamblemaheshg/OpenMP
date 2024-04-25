@@ -1,2 +1,0 @@
-# OpenMP
-Open MP
